@@ -1,6 +1,6 @@
 # README #
 
-A simple example for bootstrapping in python.
+A simple example for bootstrapping in python and R.
 
 
 ### What is this repository for? ###
