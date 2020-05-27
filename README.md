@@ -1,6 +1,7 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+A simple example for bootstrapping in python.
+
 
 ### What is this repository for? ###
 
