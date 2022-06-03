@@ -12,6 +12,12 @@ A simple example for bootstrapping in python and R.
 ### How do I get set up? ###
 
 * Summary of set up
+
+```r
+pip install -r requirements.txt
+```
+
+
 * Configuration
 * Dependencies
 * Database configuration
