@@ -18,7 +18,7 @@ sns.set()
 
 list_normal_numbers = np.random.randn(1000) # standard normal N(0,1)
 
-# now plot distribition of these bootstrapped estimates
+# now plot distribution of these bootstrapped estimates
 sns.distplot(list_normal_numbers)    
 np.percentile(list_normal_numbers, 2.5)
 np.percentile(list_normal_numbers, 97.5)
